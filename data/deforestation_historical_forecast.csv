@@ -1,0 +1,1021 @@
+subnational1,year,loss_ha,emission_CO2e,source
+Aceh,2001,18278.0,36491661.44,historical
+Aceh,2002,10952.0,21865448.96,historical
+Aceh,2003,11816.0,23590407.68,historical
+Aceh,2004,19138.0,38208634.24,historical
+Aceh,2005,26479.0,52864793.92,historical
+Aceh,2006,21284.0,42493080.32,historical
+Aceh,2007,24168.0,48250928.64,historical
+Aceh,2008,36734.0,73338696.32,historical
+Aceh,2009,69111.0,137978729.28,historical
+Aceh,2010,40757.0,81370535.36,historical
+Aceh,2011,47485.0,94802852.8,historical
+Aceh,2012,49396.0,98618126.08,historical
+Aceh,2013,41390.0,82634307.2,historical
+Aceh,2014,58555.0,116903886.4,historical
+Aceh,2015,33969.0,67818429.12,historical
+Aceh,2016,50074.0,99971739.52,historical
+Aceh,2017,45813.0,91464738.24,historical
+Aceh,2018,46111.0,92059689.28,historical
+Aceh,2019,28562.0,57023461.76,historical
+Aceh,2020,30225.0,60343608.0,historical
+Aceh,2021,31786.0,63460113.28,historical
+Aceh,2022,29785.0,59465156.8,historical
+Aceh,2023,38983.0,77828779.84,historical
+Aceh,2024,46071.0,91979830.08,historical
+Aceh,2025,43713.67,87273471.625,forecast
+Aceh,2026,44832.484,89507158.405,forecast
+Aceh,2027,43815.68,87477128.1825,forecast
+Aceh,2028,43855.984,87557595.685,forecast
+Aceh,2029,45440.547,90721143.025,forecast
+Aceh,2030,41828.312,83509389.34,forecast
+Bali,2001,424.0,764035.28,historical
+Bali,2002,311.0,560412.67,historical
+Bali,2003,179.0,322552.63,historical
+Bali,2004,370.0,666728.9,historical
+Bali,2005,236.0,425264.92,historical
+Bali,2006,515.0,928014.55,historical
+Bali,2007,504.0,908192.88,historical
+Bali,2008,229.0,412651.13,historical
+Bali,2009,377.0,679342.69,historical
+Bali,2010,198.0,356790.06,historical
+Bali,2011,216.0,389225.52,historical
+Bali,2012,743.0,1338863.71,historical
+Bali,2013,396.0,713580.12,historical
+Bali,2014,907.0,1634386.79,historical
+Bali,2015,133.0,239662.01,historical
+Bali,2016,156.0,281107.32,historical
+Bali,2017,263.0,473918.11,historical
+Bali,2018,302.0,544194.94,historical
+Bali,2019,706.0,1272190.82,historical
+Bali,2020,165.0,297325.05,historical
+Bali,2021,199.0,358592.03,historical
+Bali,2022,262.0,472116.14,historical
+Bali,2023,558.0,1005499.26,historical
+Bali,2024,168.0,302730.96,historical
+Bali,2025,215.65999,388612.8293031311,forecast
+Bali,2026,212.13272,382256.7991653442,forecast
+Bali,2027,212.51602,382947.4956741333,forecast
+Bali,2028,210.9392,380106.09891769406,forecast
+Bali,2029,214.68785,386861.0667802429,forecast
+Bali,2030,200.11711,360605.0308799744,forecast
+Bangka Belitung,2001,13910.0,14447065.1,historical
+Bangka Belitung,2002,11247.0,11681246.67,historical
+Bangka Belitung,2003,7124.0,7399057.64,historical
+Bangka Belitung,2004,21976.0,22824493.36,historical
+Bangka Belitung,2005,19839.0,20604983.79,historical
+Bangka Belitung,2006,20241.0,21022505.01,historical
+Bangka Belitung,2007,23237.0,24134180.57,historical
+Bangka Belitung,2008,22678.0,23553597.58,historical
+Bangka Belitung,2009,63896.0,66363024.56,historical
+Bangka Belitung,2010,23187.0,24082250.07,historical
+Bangka Belitung,2011,32400.0,33650964.0,historical
+Bangka Belitung,2012,39451.0,40974203.11,historical
+Bangka Belitung,2013,17575.0,18253570.75,historical
+Bangka Belitung,2014,41246.0,42838508.06,historical
+Bangka Belitung,2015,41281.0,42874859.41,historical
+Bangka Belitung,2016,58203.0,60450217.83,historical
+Bangka Belitung,2017,25558.0,26544794.38,historical
+Bangka Belitung,2018,22426.0,23291867.86,historical
+Bangka Belitung,2019,25529.0,26514674.69,historical
+Bangka Belitung,2020,24628.0,25578887.08,historical
+Bangka Belitung,2021,31006.0,32203141.66,historical
+Bangka Belitung,2022,34052.0,35366747.72,historical
+Bangka Belitung,2023,50388.0,52333480.68,historical
+Bangka Belitung,2024,31059.0,32258187.99,historical
+Bangka Belitung,2025,33783.625,35088010.76125,forecast
+Bangka Belitung,2026,33574.11,34870405.73796875,forecast
+Bangka Belitung,2027,32861.12,34129888.97917969,forecast
+Bangka Belitung,2028,33183.645,34464865.04660156,forecast
+Bangka Belitung,2029,34379.926,35707334.71566406,forecast
+Bangka Belitung,2030,30739.078,31925913.93140625,forecast
+Banten,2001,1054.0,1984376.34,historical
+Banten,2002,1761.0,3315452.31,historical
+Banten,2003,293.0,551634.03,historical
+Banten,2004,1404.0,2643324.84,historical
+Banten,2005,545.0,1026076.95,historical
+Banten,2006,1938.0,3648691.98,historical
+Banten,2007,1060.0,1995672.6,historical
+Banten,2008,930.0,1750920.3,historical
+Banten,2009,2754.0,5184983.34,historical
+Banten,2010,1633.0,3074465.43,historical
+Banten,2011,2329.0,4384831.59,historical
+Banten,2012,3286.0,6186585.06,historical
+Banten,2013,1830.0,3445359.3,historical
+Banten,2014,2275.0,4283165.25,historical
+Banten,2015,2663.0,5013656.73,historical
+Banten,2016,1969.0,3707055.99,historical
+Banten,2017,3495.0,6580071.45,historical
+Banten,2018,3401.0,6403096.71,historical
+Banten,2019,4715.0,8876977.65,historical
+Banten,2020,2042.0,3844493.82,historical
+Banten,2021,1915.0,3605389.65,historical
+Banten,2022,1546.0,2910669.66,historical
+Banten,2023,3744.0,7048866.24,historical
+Banten,2024,3256.0,6130103.76,historical
+Banten,2025,2134.1572,4017999.152021485,forecast
+Banten,2026,2268.049,4270078.668845215,forecast
+Banten,2027,2260.0923,4255098.346186523,forecast
+Banten,2028,2253.067,4241871.57300293,forecast
+Banten,2029,2296.5952,4323822.776938477,forecast
+Banten,2030,2149.6746,4047213.791887207,forecast
+Bengkulu,2001,14198.0,26001223.34,historical
+Bengkulu,2002,10421.0,19084289.93,historical
+Bengkulu,2003,8104.0,14841098.32,historical
+Bengkulu,2004,25985.0,47587110.05,historical
+Bengkulu,2005,13142.0,24067338.86,historical
+Bengkulu,2006,23589.0,43199243.37,historical
+Bengkulu,2007,17580.0,32194781.4,historical
+Bengkulu,2008,22353.0,40935719.49,historical
+Bengkulu,2009,18756.0,34348425.48,historical
+Bengkulu,2010,16012.0,29323255.96,historical
+Bengkulu,2011,24563.0,44982958.79,historical
+Bengkulu,2012,27761.0,50839552.13,historical
+Bengkulu,2013,14153.0,25918813.49,historical
+Bengkulu,2014,20320.0,37212625.6,historical
+Bengkulu,2015,20197.0,36987372.01,historical
+Bengkulu,2016,24378.0,44644162.74,historical
+Bengkulu,2017,27232.0,49870778.56,historical
+Bengkulu,2018,24624.0,45094669.92,historical
+Bengkulu,2019,18200.0,33330206.0,historical
+Bengkulu,2020,16311.0,29870823.63,historical
+Bengkulu,2021,14326.0,26235633.58,historical
+Bengkulu,2022,23800.0,43585654.0,historical
+Bengkulu,2023,29912.0,54778742.96,historical
+Bengkulu,2024,20998.0,38454267.34,historical
+Bengkulu,2025,24762.676,45348631.03847656,forecast
+Bengkulu,2026,27619.266,50579989.71703125,forecast
+Bengkulu,2027,27322.117,50035812.86898437,forecast
+Bengkulu,2028,27418.02,50211441.70816406,forecast
+Bengkulu,2029,28543.107,52271848.91490234,forecast
+Bengkulu,2030,27811.162,50931415.50576172,forecast
+Gorontalo,2001,3499.0,5483247.91,historical
+Gorontalo,2002,8013.0,12557092.17,historical
+Gorontalo,2003,2806.0,4397254.54,historical
+Gorontalo,2004,6949.0,10889708.41,historical
+Gorontalo,2005,4241.0,6646028.69,historical
+Gorontalo,2006,5250.0,8227222.5,historical
+Gorontalo,2007,4329.0,6783932.609999999,historical
+Gorontalo,2008,1794.0,2811359.46,historical
+Gorontalo,2009,11263.0,17650134.669999998,historical
+Gorontalo,2010,1570.0,2460331.3,historical
+Gorontalo,2011,2979.0,4668361.11,historical
+Gorontalo,2012,3927.0,6153962.43,historical
+Gorontalo,2013,5938.0,9305380.42,historical
+Gorontalo,2014,10353.0,16224082.77,historical
+Gorontalo,2015,13286.0,20820357.74,historical
+Gorontalo,2016,10910.0,17096951.9,historical
+Gorontalo,2017,7869.0,12331431.21,historical
+Gorontalo,2018,8007.0,12547689.63,historical
+Gorontalo,2019,10959.0,17173739.31,historical
+Gorontalo,2020,3030.0,4748282.7,historical
+Gorontalo,2021,2199.0,3446030.91,historical
+Gorontalo,2022,2819.0,4417626.71,historical
+Gorontalo,2023,8242.0,12915955.78,historical
+Gorontalo,2024,4643.0,7275998.87,historical
+Gorontalo,2025,4179.0063,6548879.057348632,forecast
+Gorontalo,2026,4250.7964,6661380.509663085,forecast
+Gorontalo,2027,4229.0938,6627370.5246875,forecast
+Gorontalo,2028,4217.7163,6609541.050034179,forecast
+Gorontalo,2029,4296.9004,6733629.633144531,forecast
+Gorontalo,2030,4015.6077,6292818.617336426,forecast
+Jakarta Raya,2001,4.0,1321.2,historical
+Jakarta Raya,2002,0.0,0.0,historical
+Jakarta Raya,2003,0.0,0.0,historical
+Jakarta Raya,2004,1.0,330.3,historical
+Jakarta Raya,2005,0.0,0.0,historical
+Jakarta Raya,2006,4.0,1321.2,historical
+Jakarta Raya,2007,2.0,660.6,historical
+Jakarta Raya,2008,2.0,660.6,historical
+Jakarta Raya,2009,0.0,0.0,historical
+Jakarta Raya,2010,2.0,660.6,historical
+Jakarta Raya,2011,4.0,1321.2,historical
+Jakarta Raya,2012,1.0,330.3,historical
+Jakarta Raya,2013,0.0,0.0,historical
+Jakarta Raya,2014,0.0,0.0,historical
+Jakarta Raya,2015,0.0,0.0,historical
+Jakarta Raya,2016,0.0,0.0,historical
+Jakarta Raya,2017,1.0,330.3,historical
+Jakarta Raya,2018,0.0,0.0,historical
+Jakarta Raya,2019,0.0,0.0,historical
+Jakarta Raya,2020,0.0,0.0,historical
+Jakarta Raya,2021,1.0,330.3,historical
+Jakarta Raya,2022,0.0,0.0,historical
+Jakarta Raya,2023,0.0,0.0,historical
+Jakarta Raya,2024,0.0,0.0,historical
+Jakarta Raya,2025,0.021272711,7.026376593858004,forecast
+Jakarta Raya,2026,0.013255644,4.378339100349694,forecast
+Jakarta Raya,2027,0.07877365,26.018935784697533,forecast
+Jakarta Raya,2028,0.07620058,25.169052263349293,forecast
+Jakarta Raya,2029,0.0103590265,3.421586450189352,forecast
+Jakarta Raya,2030,0.027051764,8.935197520069778,forecast
+Jambi,2001,46911.0,104675328.96,historical
+Jambi,2002,45074.0,100576320.64,historical
+Jambi,2003,21497.0,47967545.92,historical
+Jambi,2004,97086.0,216633816.96,historical
+Jambi,2005,71003.0,158433254.07999998,historical
+Jambi,2006,119577.0,266819334.72,historical
+Jambi,2007,118972.0,265469361.92,historical
+Jambi,2008,124204.0,277143837.44,historical
+Jambi,2009,125511.0,280060224.96,historical
+Jambi,2010,36678.0,81841822.08,historical
+Jambi,2011,48905.0,109124660.8,historical
+Jambi,2012,152388.0,340032487.68,historical
+Jambi,2013,66707.0,148847331.52,historical
+Jambi,2014,77432.0,172778667.52,historical
+Jambi,2015,60611.0,135244960.96,historical
+Jambi,2016,157246.0,350872434.56,historical
+Jambi,2017,86203.0,192349926.08,historical
+Jambi,2018,69978.0,156146110.07999998,historical
+Jambi,2019,67673.0,151002825.28,historical
+Jambi,2020,78387.0,174909616.32,historical
+Jambi,2021,73131.0,163181588.16,historical
+Jambi,2022,75657.0,168818003.52,historical
+Jambi,2023,93816.0,209337269.76,historical
+Jambi,2024,91324.0,203776720.64,historical
+Jambi,2025,94834.76,211610485.1925,forecast
+Jambi,2026,95313.95,212679742.445,forecast
+Jambi,2027,93967.875,209676157.56,forecast
+Jambi,2028,94053.86,209868019.655,forecast
+Jambi,2029,95247.984,212532542.415,forecast
+Jambi,2030,88304.734,197039652.095,forecast
+Jawa Barat,2001,6798.0,11925459.48,historical
+Jawa Barat,2002,3851.0,6755655.26,historical
+Jawa Barat,2003,1979.0,3471680.54,historical
+Jawa Barat,2004,3659.0,6418837.34,historical
+Jawa Barat,2005,2327.0,4082163.02,historical
+Jawa Barat,2006,5244.0,9199339.44,historical
+Jawa Barat,2007,3055.0,5359264.3,historical
+Jawa Barat,2008,5116.0,8974794.16,historical
+Jawa Barat,2009,2886.0,5062794.36,historical
+Jawa Barat,2010,2632.0,4617212.32,historical
+Jawa Barat,2011,5421.0,9509843.46,historical
+Jawa Barat,2012,3753.0,6583737.78,historical
+Jawa Barat,2013,2565.0,4499676.9,historical
+Jawa Barat,2014,3758.0,6592509.08,historical
+Jawa Barat,2015,3502.0,6143418.52,historical
+Jawa Barat,2016,3657.0,6415328.82,historical
+Jawa Barat,2017,5646.0,9904551.96,historical
+Jawa Barat,2018,4509.0,7909958.34,historical
+Jawa Barat,2019,6974.0,12234209.24,historical
+Jawa Barat,2020,3459.0,6067985.34,historical
+Jawa Barat,2021,2568.0,4504939.68,historical
+Jawa Barat,2022,2575.0,4517219.5,historical
+Jawa Barat,2023,5561.0,9755439.86,historical
+Jawa Barat,2024,4421.0,7755583.46,historical
+Jawa Barat,2025,4189.9473,7350256.890195312,forecast
+Jawa Barat,2026,4949.0337,8681891.843486328,forecast
+Jawa Barat,2027,5255.45,9219426.059628906,forecast
+Jawa Barat,2028,5389.6465,9454841.241679689,forecast
+Jawa Barat,2029,5519.656,9682911.316552734,forecast
+Jawa Barat,2030,4954.13,8690831.888222655,forecast
+Jawa Tengah,2001,2676.0,4566727.8,historical
+Jawa Tengah,2002,1899.0,3240738.45,historical
+Jawa Tengah,2003,791.0,1349881.05,historical
+Jawa Tengah,2004,3568.0,6088970.399999999,historical
+Jawa Tengah,2005,1703.0,2906254.65,historical
+Jawa Tengah,2006,3474.0,5928554.7,historical
+Jawa Tengah,2007,2898.0,4945581.899999999,historical
+Jawa Tengah,2008,2657.0,4534303.35,historical
+Jawa Tengah,2009,3054.0,5211803.7,historical
+Jawa Tengah,2010,1323.0,2257765.65,historical
+Jawa Tengah,2011,4500.0,7679475.0,historical
+Jawa Tengah,2012,2450.0,4181047.5,historical
+Jawa Tengah,2013,1180.0,2013729.0,historical
+Jawa Tengah,2014,2883.0,4919983.649999999,historical
+Jawa Tengah,2015,1808.0,3085442.4,historical
+Jawa Tengah,2016,2285.0,3899466.75,historical
+Jawa Tengah,2017,3457.0,5899543.35,historical
+Jawa Tengah,2018,2573.0,4390953.15,historical
+Jawa Tengah,2019,2769.0,4725436.95,historical
+Jawa Tengah,2020,2752.0,4696425.6,historical
+Jawa Tengah,2021,2109.0,3599113.95,historical
+Jawa Tengah,2022,2085.0,3558156.75,historical
+Jawa Tengah,2023,4726.0,8065155.3,historical
+Jawa Tengah,2024,2774.0,4733969.7,historical
+Jawa Tengah,2025,2588.0503,4416637.2274658205,forecast
+Jawa Tengah,2026,2892.377,4935985.889355469,forecast
+Jawa Tengah,2027,3075.7073,5248848.250817871,forecast
+Jawa Tengah,2028,3089.2695,5271992.918554687,forecast
+Jawa Tengah,2029,3161.0874,5394553.706469727,forecast
+Jawa Tengah,2030,2808.411,4792693.602062988,forecast
+Jawa Timur,2001,4227.0,7089482.13,historical
+Jawa Timur,2002,4052.0,6795973.88,historical
+Jawa Timur,2003,2910.0,4880622.899999999,historical
+Jawa Timur,2004,6465.0,10843033.35,historical
+Jawa Timur,2005,2820.0,4729675.8,historical
+Jawa Timur,2006,5746.0,9637133.74,historical
+Jawa Timur,2007,4430.0,7429951.7,historical
+Jawa Timur,2008,3993.0,6697019.67,historical
+Jawa Timur,2009,4277.0,7173341.63,historical
+Jawa Timur,2010,1648.0,2764009.12,historical
+Jawa Timur,2011,5849.0,9809884.31,historical
+Jawa Timur,2012,8314.0,13944157.66,historical
+Jawa Timur,2013,2754.0,4618981.26,historical
+Jawa Timur,2014,6771.0,11356253.49,historical
+Jawa Timur,2015,2901.0,4865528.19,historical
+Jawa Timur,2016,3188.0,5346881.72,historical
+Jawa Timur,2017,4713.0,7904596.47,historical
+Jawa Timur,2018,4290.0,7195145.1,historical
+Jawa Timur,2019,5112.0,8573795.28,historical
+Jawa Timur,2020,4919.0,8250097.609999999,historical
+Jawa Timur,2021,3520.0,5903708.8,historical
+Jawa Timur,2022,2918.0,4894040.42,historical
+Jawa Timur,2023,6319.0,10598163.61,historical
+Jawa Timur,2024,4505.0,7555740.95,historical
+Jawa Timur,2025,4361.299,7314726.781542969,forecast
+Jawa Timur,2026,4503.84,7553795.147539062,forecast
+Jawa Timur,2027,4503.926,7553939.281054688,forecast
+Jawa Timur,2028,4499.6143,7546708.037060547,forecast
+Jawa Timur,2029,4534.0522,7604467.086625976,forecast
+Jawa Timur,2030,4154.9185,6968587.686948242,forecast
+Kalimantan Barat,2001,77940.0,169335561.6,historical
+Kalimantan Barat,2002,96866.0,210454946.24,historical
+Kalimantan Barat,2003,55967.0,121596142.88,historical
+Kalimantan Barat,2004,113923.0,247513666.72,historical
+Kalimantan Barat,2005,104566.0,227184274.24,historical
+Kalimantan Barat,2006,130920.0,284442028.8,historical
+Kalimantan Barat,2007,132081.0,286964463.84,historical
+Kalimantan Barat,2008,202683.0,440357193.12,historical
+Kalimantan Barat,2009,288604.0,627032594.56,historical
+Kalimantan Barat,2010,152522.0,331375398.08,historical
+Kalimantan Barat,2011,262481.0,570276719.84,historical
+Kalimantan Barat,2012,312530.0,679015179.1999999,historical
+Kalimantan Barat,2013,199514.0,433472096.96,historical
+Kalimantan Barat,2014,291474.0,633268071.36,historical
+Kalimantan Barat,2015,267806.0,581846027.84,historical
+Kalimantan Barat,2016,286374.0,622187607.36,historical
+Kalimantan Barat,2017,181330.0,393964811.2,historical
+Kalimantan Barat,2018,159317.0,346138486.88,historical
+Kalimantan Barat,2019,143107.0,310919992.48,historical
+Kalimantan Barat,2020,121935.0,264920858.4,historical
+Kalimantan Barat,2021,109033.0,236889457.12,historical
+Kalimantan Barat,2022,137501.0,298740172.64,historical
+Kalimantan Barat,2023,206711.0,449108587.04,historical
+Kalimantan Barat,2024,173923.0,377872066.72,historical
+Kalimantan Barat,2025,200944.62,436580330.06,forecast
+Kalimantan Barat,2026,230392.44,500559825.41,forecast
+Kalimantan Barat,2027,223923.06,486504202.51,forecast
+Kalimantan Barat,2028,223583.34,485766115.965,forecast
+Kalimantan Barat,2029,229673.53,498997900.935,forecast
+Kalimantan Barat,2030,220390.06,478828265.39,forecast
+Kalimantan Selatan,2001,18967.0,28539644.9,historical
+Kalimantan Selatan,2002,24324.0,36600322.8,historical
+Kalimantan Selatan,2003,18403.0,27690994.1,historical
+Kalimantan Selatan,2004,41871.0,63003293.7,historical
+Kalimantan Selatan,2005,25392.0,38207342.4,historical
+Kalimantan Selatan,2006,54016.0,81277875.2,historical
+Kalimantan Selatan,2007,29584.0,44515044.8,historical
+Kalimantan Selatan,2008,18696.0,28131871.2,historical
+Kalimantan Selatan,2009,60466.0,90983190.2,historical
+Kalimantan Selatan,2010,26199.0,39421635.3,historical
+Kalimantan Selatan,2011,48257.0,72612307.9,historical
+Kalimantan Selatan,2012,66809.0,100527502.3,historical
+Kalimantan Selatan,2013,35960.0,54109012.0,historical
+Kalimantan Selatan,2014,66373.0,99871453.1,historical
+Kalimantan Selatan,2015,73379.0,110413381.3,historical
+Kalimantan Selatan,2016,65747.0,98929510.9,historical
+Kalimantan Selatan,2017,37465.0,56373585.5,historical
+Kalimantan Selatan,2018,37578.0,56543616.6,historical
+Kalimantan Selatan,2019,44331.0,66704855.7,historical
+Kalimantan Selatan,2020,21000.0,31598700.0,historical
+Kalimantan Selatan,2021,21668.0,32603839.6,historical
+Kalimantan Selatan,2022,17769.0,26737014.3,historical
+Kalimantan Selatan,2023,51434.0,77392739.8,historical
+Kalimantan Selatan,2024,27839.0,41889343.3,historical
+Kalimantan Selatan,2025,34199.8,51460440.23554687,forecast
+Kalimantan Selatan,2026,38527.688,57972611.38125,forecast
+Kalimantan Selatan,2027,38066.613,57278833.00429688,forecast
+Kalimantan Selatan,2028,37778.113,56844727.05429687,forecast
+Kalimantan Selatan,2029,38828.426,58425132.27304687,forecast
+Kalimantan Selatan,2030,36339.38,54679863.44023437,forecast
+Kalimantan Tengah,2001,64076.0,125810022.2,historical
+Kalimantan Tengah,2002,102874.0,201987955.3,historical
+Kalimantan Tengah,2003,129122.0,253524590.9,historical
+Kalimantan Tengah,2004,169837.0,333466457.65,historical
+Kalimantan Tengah,2005,158552.0,311308924.4,historical
+Kalimantan Tengah,2006,221893.0,435675810.85,historical
+Kalimantan Tengah,2007,291717.0,572771743.65,historical
+Kalimantan Tengah,2008,204626.0,401772919.7,historical
+Kalimantan Tengah,2009,194376.0,381647557.2,historical
+Kalimantan Tengah,2010,142342.0,279481399.9,historical
+Kalimantan Tengah,2011,139335.0,273577305.75,historical
+Kalimantan Tengah,2012,218881.0,429761899.45,historical
+Kalimantan Tengah,2013,103285.0,202794933.25,historical
+Kalimantan Tengah,2014,197213.0,387217864.85,historical
+Kalimantan Tengah,2015,213840.0,419864148.0,historical
+Kalimantan Tengah,2016,492975.0,967931763.75,historical
+Kalimantan Tengah,2017,102894.0,202027224.3,historical
+Kalimantan Tengah,2018,110369.0,216704013.05,historical
+Kalimantan Tengah,2019,122143.0,239821673.35,historical
+Kalimantan Tengah,2020,90490.0,177672590.5,historical
+Kalimantan Tengah,2021,53159.0,104375038.55,historical
+Kalimantan Tengah,2022,72734.0,142809572.3,historical
+Kalimantan Tengah,2023,144866.0,284437147.7,historical
+Kalimantan Tengah,2024,118639.0,232941744.55,historical
+Kalimantan Tengah,2025,144995.55,284691506.51171875,forecast
+Kalimantan Tengah,2026,160453.77,315042946.11640626,forecast
+Kalimantan Tengah,2027,157228.78,308710850.54531246,forecast
+Kalimantan Tengah,2028,156249.7,306788479.60078126,forecast
+Kalimantan Tengah,2029,165229.48,324419831.0960937,forecast
+Kalimantan Tengah,2030,162380.77,318826514.26640624,forecast
+Kalimantan Timur,2001,45977.0,97866642.2,historical
+Kalimantan Timur,2002,57425.0,122234855.0,historical
+Kalimantan Timur,2003,36975.0,78704985.0,historical
+Kalimantan Timur,2004,71496.0,152186385.6,historical
+Kalimantan Timur,2005,66742.0,142067021.2,historical
+Kalimantan Timur,2006,128253.0,272999335.8,historical
+Kalimantan Timur,2007,121912.0,259501883.2,historical
+Kalimantan Timur,2008,105149.0,223820161.4,historical
+Kalimantan Timur,2009,211515.0,450230829.0,historical
+Kalimantan Timur,2010,107241.0,228273192.6,historical
+Kalimantan Timur,2011,182064.0,387541430.4,historical
+Kalimantan Timur,2012,255656.0,544189361.6,historical
+Kalimantan Timur,2013,147487.0,313940828.2,historical
+Kalimantan Timur,2014,211485.0,450166971.0,historical
+Kalimantan Timur,2015,183872.0,391389939.2,historical
+Kalimantan Timur,2016,313958.0,668290998.8,historical
+Kalimantan Timur,2017,134297.0,285864594.2,historical
+Kalimantan Timur,2018,147742.0,314483621.2,historical
+Kalimantan Timur,2019,132059.0,281100787.4,historical
+Kalimantan Timur,2020,91821.0,195450180.6,historical
+Kalimantan Timur,2021,74061.0,157646244.6,historical
+Kalimantan Timur,2022,61563.0,131043001.8,historical
+Kalimantan Timur,2023,134307.0,285885880.2,historical
+Kalimantan Timur,2024,110376.0,234946353.6,historical
+Kalimantan Timur,2025,105826.305,225261872.1578125,forecast
+Kalimantan Timur,2026,106717.164,227158155.4234375,forecast
+Kalimantan Timur,2027,105787.055,225178324.6078125,forecast
+Kalimantan Timur,2028,105487.54,224540775.6484375,forecast
+Kalimantan Timur,2029,106244.15,226151294.3640625,forecast
+Kalimantan Timur,2030,99240.734,211243827.19062495,forecast
+Kalimantan Utara,2001,27060.0,61274393.4,historical
+Kalimantan Utara,2002,23604.0,53448661.56,historical
+Kalimantan Utara,2003,16648.0,37697564.72,historical
+Kalimantan Utara,2004,36334.0,82274346.26,historical
+Kalimantan Utara,2005,23948.0,54227611.72,historical
+Kalimantan Utara,2006,24116.0,54608029.24,historical
+Kalimantan Utara,2007,30813.0,69772649.07,historical
+Kalimantan Utara,2008,39795.0,90111400.05,historical
+Kalimantan Utara,2009,51702.0,117073491.78,historical
+Kalimantan Utara,2010,29944.0,67804894.16,historical
+Kalimantan Utara,2011,41756.0,94551868.84,historical
+Kalimantan Utara,2012,60396.0,136760098.44,historical
+Kalimantan Utara,2013,31842.0,72102706.38,historical
+Kalimantan Utara,2014,59037.0,133682792.43,historical
+Kalimantan Utara,2015,47844.0,108337475.16,historical
+Kalimantan Utara,2016,38488.0,87151842.32,historical
+Kalimantan Utara,2017,33775.0,76479772.25,historical
+Kalimantan Utara,2018,36813.0,83358989.07,historical
+Kalimantan Utara,2019,29326.0,66405501.14,historical
+Kalimantan Utara,2020,24481.0,55434531.59,historical
+Kalimantan Utara,2021,19260.0,43612151.4,historical
+Kalimantan Utara,2022,17636.0,39934782.04,historical
+Kalimantan Utara,2023,26441.0,59872735.99,historical
+Kalimantan Utara,2024,19954.0,45183638.06,historical
+Kalimantan Utara,2025,23636.824,53522988.39269532,forecast
+Kalimantan Utara,2026,25126.176,56895461.177304685,forecast
+Kalimantan Utara,2027,24904.305,56393058.49132812,forecast
+Kalimantan Utara,2028,25077.387,56784983.71207031,forecast
+Kalimantan Utara,2029,25450.46,57629769.24226563,forecast
+Kalimantan Utara,2030,23491.8,53194598.771054685,forecast
+Kepulauan Riau,2001,1719.0,2510874.54,historical
+Kepulauan Riau,2002,5529.0,8075989.14,historical
+Kepulauan Riau,2003,1775.0,2592671.5,historical
+Kepulauan Riau,2004,4533.0,6621171.78,historical
+Kepulauan Riau,2005,8092.0,11819660.72,historical
+Kepulauan Riau,2006,5433.0,7935765.78,historical
+Kepulauan Riau,2007,2688.0,3926254.08,historical
+Kepulauan Riau,2008,8706.0,12716505.96,historical
+Kepulauan Riau,2009,5234.0,7645094.439999999,historical
+Kepulauan Riau,2010,4797.0,7006786.02,historical
+Kepulauan Riau,2011,6945.0,10144283.7,historical
+Kepulauan Riau,2012,9375.0,13693687.5,historical
+Kepulauan Riau,2013,4763.0,6957123.58,historical
+Kepulauan Riau,2014,19231.0,28089952.46,historical
+Kepulauan Riau,2015,5869.0,8572613.54,historical
+Kepulauan Riau,2016,13058.0,19073298.28,historical
+Kepulauan Riau,2017,7993.0,11675055.38,historical
+Kepulauan Riau,2018,6266.0,9152495.56,historical
+Kepulauan Riau,2019,8888.0,12982346.08,historical
+Kepulauan Riau,2020,8779.0,12823134.14,historical
+Kepulauan Riau,2021,4391.0,6413758.06,historical
+Kepulauan Riau,2022,2845.0,4155577.7,historical
+Kepulauan Riau,2023,3343.0,4882986.38,historical
+Kepulauan Riau,2024,2623.0,3831311.18,historical
+Kepulauan Riau,2025,2540.6118,3710970.055751953,forecast
+Kepulauan Riau,2026,1989.2811,2905663.372321777,forecast
+Kepulauan Riau,2027,1999.5315,2920635.672231445,forecast
+Kepulauan Riau,2028,1999.6746,2920844.6436083983,forecast
+Kepulauan Riau,2029,2019.073,2949179.1653271485,forecast
+Kepulauan Riau,2030,1935.473,2827068.024987793,forecast
+Lampung,2001,10335.0,20557761.9,historical
+Lampung,2002,9346.0,18590502.44,historical
+Lampung,2003,4981.0,9907906.34,historical
+Lampung,2004,10520.0,20925752.8,historical
+Lampung,2005,9319.0,18536795.66,historical
+Lampung,2006,14046.0,27939460.44,historical
+Lampung,2007,15584.0,30998757.76,historical
+Lampung,2008,16173.0,32170361.22,historical
+Lampung,2009,23141.0,46030688.74,historical
+Lampung,2010,14090.0,28026982.6,historical
+Lampung,2011,16755.0,33328040.7,historical
+Lampung,2012,30337.0,60344540.18,historical
+Lampung,2013,5150.0,10244071.0,historical
+Lampung,2014,11365.0,22606576.1,historical
+Lampung,2015,14132.0,28110526.48,historical
+Lampung,2016,16242.0,32307611.88,historical
+Lampung,2017,11761.0,23394275.54,historical
+Lampung,2018,10337.0,20561740.18,historical
+Lampung,2019,13177.0,26210897.78,historical
+Lampung,2020,9472.0,18841134.08,historical
+Lampung,2021,7605.0,15127409.7,historical
+Lampung,2022,7023.0,13969730.22,historical
+Lampung,2023,21635.0,43035043.9,historical
+Lampung,2024,12943.0,25745439.02,historical
+Lampung,2025,13682.145,27215700.972890623,forecast
+Lampung,2026,15249.974,30334332.551972657,forecast
+Lampung,2027,14372.371,28588658.237421878,forecast
+Lampung,2028,14066.728,27980690.41705078,forecast
+Lampung,2029,14432.604,28708468.957070317,forecast
+Lampung,2030,13870.623,27590611.127460934,forecast
+Maluku,2001,4540.0,9430578.8,historical
+Maluku,2002,14596.0,30319103.12,historical
+Maluku,2003,4307.0,8946586.54,historical
+Maluku,2004,7367.0,15302879.74,historical
+Maluku,2005,5605.0,11642818.1,historical
+Maluku,2006,12417.0,25792840.74,historical
+Maluku,2007,4456.0,9256092.32,historical
+Maluku,2008,2934.0,6094563.48,historical
+Maluku,2009,13425.0,27886678.5,historical
+Maluku,2010,4397.0,9133536.34,historical
+Maluku,2011,9380.0,19484323.6,historical
+Maluku,2012,11375.0,23628377.5,historical
+Maluku,2013,4668.0,9696462.96,historical
+Maluku,2014,15224.0,31623597.28,historical
+Maluku,2015,48979.0,101740158.38,historical
+Maluku,2016,27623.0,57379048.06,historical
+Maluku,2017,7333.0,15232254.26,historical
+Maluku,2018,11187.0,23237860.14,historical
+Maluku,2019,17179.0,35684562.38,historical
+Maluku,2020,5660.0,11757065.2,historical
+Maluku,2021,3727.0,7741798.939999999,historical
+Maluku,2022,5059.0,10508655.98,historical
+Maluku,2023,14304.0,29712554.88,historical
+Maluku,2024,5198.0,10797389.56,historical
+Maluku,2025,7048.4736,14641230.39955078,forecast
+Maluku,2026,7703.4214,16001700.972919922,forecast
+Maluku,2027,7976.2974,16568524.40895508,forecast
+Maluku,2028,8283.144,17205911.454667967,forecast
+Maluku,2029,8855.41,18394635.084765624,forecast
+Maluku,2030,8118.669,16864261.50658203,forecast
+Maluku Utara,2001,7354.0,15896627.02,historical
+Maluku Utara,2002,23402.0,50586465.26,historical
+Maluku Utara,2003,10039.0,21700603.57,historical
+Maluku Utara,2004,12043.0,26032510.09,historical
+Maluku Utara,2005,6418.0,13873341.34,historical
+Maluku Utara,2006,16112.0,34828182.56,historical
+Maluku Utara,2007,5353.0,11571205.39,historical
+Maluku Utara,2008,4956.0,10713038.28,historical
+Maluku Utara,2009,13474.0,29125802.62,historical
+Maluku Utara,2010,6067.0,13114609.21,historical
+Maluku Utara,2011,5746.0,12420725.98,historical
+Maluku Utara,2012,9010.0,19476286.3,historical
+Maluku Utara,2013,6781.0,14658013.03,historical
+Maluku Utara,2014,17979.0,38863945.77,historical
+Maluku Utara,2015,45451.0,98248245.13,historical
+Maluku Utara,2016,26859.0,58059220.17,historical
+Maluku Utara,2017,10589.0,22889500.07,historical
+Maluku Utara,2018,12375.0,26750171.25,historical
+Maluku Utara,2019,14166.0,30621650.58,historical
+Maluku Utara,2020,7423.0,16045779.49,historical
+Maluku Utara,2021,6041.0,13058406.83,historical
+Maluku Utara,2022,6358.0,13743643.54,historical
+Maluku Utara,2023,11895.0,25712588.85,historical
+Maluku Utara,2024,7303.0,15786383.89,historical
+Maluku Utara,2025,8563.352,18510797.63804688,forecast
+Maluku Utara,2026,9163.929,19809023.219423827,forecast
+Maluku Utara,2027,8942.706,19330821.68899414,forecast
+Maluku Utara,2028,9188.32,19861748.837109376,forecast
+Maluku Utara,2029,9207.313,19902805.0303418,forecast
+Maluku Utara,2030,8512.325,18400497.51194336,forecast
+Nusa Tenggara Barat,2001,2882.0,5975971.1,historical
+Nusa Tenggara Barat,2002,2675.0,5546746.25,historical
+Nusa Tenggara Barat,2003,1719.0,3564432.45,historical
+Nusa Tenggara Barat,2004,4554.0,9442946.7,historical
+Nusa Tenggara Barat,2005,2035.0,4219674.25,historical
+Nusa Tenggara Barat,2006,2486.0,5154845.3,historical
+Nusa Tenggara Barat,2007,1993.0,4132585.15,historical
+Nusa Tenggara Barat,2008,2735.0,5671159.25,historical
+Nusa Tenggara Barat,2009,1952.0,4047569.6,historical
+Nusa Tenggara Barat,2010,1146.0,2376288.3,historical
+Nusa Tenggara Barat,2011,2327.0,4825150.85,historical
+Nusa Tenggara Barat,2012,3118.0,6465328.899999999,historical
+Nusa Tenggara Barat,2013,1540.0,3193267.0,historical
+Nusa Tenggara Barat,2014,7148.0,14821735.4,historical
+Nusa Tenggara Barat,2015,4435.0,9196194.25,historical
+Nusa Tenggara Barat,2016,4028.0,8352259.399999999,historical
+Nusa Tenggara Barat,2017,6195.0,12845642.25,historical
+Nusa Tenggara Barat,2018,8144.0,16886991.2,historical
+Nusa Tenggara Barat,2019,8705.0,18050252.75,historical
+Nusa Tenggara Barat,2020,6598.0,13681282.9,historical
+Nusa Tenggara Barat,2021,4816.0,9986216.8,historical
+Nusa Tenggara Barat,2022,5616.0,11645056.8,historical
+Nusa Tenggara Barat,2023,9928.0,20586204.4,historical
+Nusa Tenggara Barat,2024,6153.0,12758553.15,historical
+Nusa Tenggara Barat,2025,4473.636,9276308.405688476,forecast
+Nusa Tenggara Barat,2026,3435.5142,7123710.386791992,forecast
+Nusa Tenggara Barat,2027,3128.289,6486663.785546875,forecast
+Nusa Tenggara Barat,2028,3062.1025,6349422.719873047,forecast
+Nusa Tenggara Barat,2029,3157.9255,6548116.497473144,forecast
+Nusa Tenggara Barat,2030,2830.6587,5869512.329565429,forecast
+Nusa Tenggara Timur,2001,4725.0,7421841.0,historical
+Nusa Tenggara Timur,2002,4608.0,7238062.08,historical
+Nusa Tenggara Timur,2003,3848.0,6044284.48,historical
+Nusa Tenggara Timur,2004,4686.0,7360581.359999999,historical
+Nusa Tenggara Timur,2005,5052.0,7935479.52,historical
+Nusa Tenggara Timur,2006,6987.0,10974900.12,historical
+Nusa Tenggara Timur,2007,5033.0,7905635.08,historical
+Nusa Tenggara Timur,2008,4451.0,6991452.76,historical
+Nusa Tenggara Timur,2009,5917.0,9294186.92,historical
+Nusa Tenggara Timur,2010,1779.0,2794382.04,historical
+Nusa Tenggara Timur,2011,7816.0,12277060.16,historical
+Nusa Tenggara Timur,2012,4649.0,7302463.24,historical
+Nusa Tenggara Timur,2013,2105.0,3306449.8,historical
+Nusa Tenggara Timur,2014,9175.0,14411723.0,historical
+Nusa Tenggara Timur,2015,7422.0,11658180.72,historical
+Nusa Tenggara Timur,2016,7367.0,11571788.92,historical
+Nusa Tenggara Timur,2017,10350.0,16257366.0,historical
+Nusa Tenggara Timur,2018,5184.0,8142819.84,historical
+Nusa Tenggara Timur,2019,7794.0,12242503.44,historical
+Nusa Tenggara Timur,2020,6516.0,10235072.16,historical
+Nusa Tenggara Timur,2021,9791.0,15379311.16,historical
+Nusa Tenggara Timur,2022,7000.0,10995320.0,historical
+Nusa Tenggara Timur,2023,8807.0,13833683.32,historical
+Nusa Tenggara Timur,2024,6484.0,10184807.84,historical
+Nusa Tenggara Timur,2025,4743.8276,7451414.698652344,forecast
+Nusa Tenggara Timur,2026,3662.7397,5753285.083574219,forecast
+Nusa Tenggara Timur,2027,3071.268,4824225.027988281,forecast
+Nusa Tenggara Timur,2028,2912.9404,4575530.309335938,forecast
+Nusa Tenggara Timur,2029,2943.8774,4624124.929863282,forecast
+Nusa Tenggara Timur,2030,2728.1892,4285330.481904297,forecast
+Papua,2001,12589.0,27351364.96,historical
+Papua,2002,20479.0,44493494.56,historical
+Papua,2003,11731.0,25487239.84,historical
+Papua,2004,19129.0,41560430.56,historical
+Papua,2005,14728.0,31998641.92,historical
+Papua,2006,21300.0,46277232.0,historical
+Papua,2007,21135.0,45918746.4,historical
+Papua,2008,15555.0,33795415.2,historical
+Papua,2009,23129.0,50250990.56,historical
+Papua,2010,25679.0,55791222.56,historical
+Papua,2011,23157.0,50311824.48,historical
+Papua,2012,46692.0,101444906.88,historical
+Papua,2013,38013.0,82588564.32,historical
+Papua,2014,58753.0,127649117.92,historical
+Papua,2015,82032.0,178226004.48,historical
+Papua,2016,83052.0,180442097.28,historical
+Papua,2017,49615.0,107795533.6,historical
+Papua,2018,34778.0,75560073.92,historical
+Papua,2019,34560.0,75086438.4,historical
+Papua,2020,29911.0,64985835.04,historical
+Papua,2021,26341.0,57229510.24,historical
+Papua,2022,28605.0,62148367.2,historical
+Papua,2023,22967.0,49899022.88,historical
+Papua,2024,22586.0,49071247.04,historical
+Papua,2025,24995.012,54305162.260625,forecast
+Papua,2026,24758.188,53790628.49,forecast
+Papua,2027,24624.902,53501047.828125,forecast
+Papua,2028,24880.209,54055737.2478125,forecast
+Papua,2029,25299.547,54966807.5225,forecast
+Papua,2030,23803.32,51716045.84375,forecast
+Papua Barat,2001,6078.0,14365231.44,historical
+Papua Barat,2002,14749.0,34858966.52,historical
+Papua Barat,2003,7247.0,17128139.56,historical
+Papua Barat,2004,12226.0,28895906.48,historical
+Papua Barat,2005,7085.0,16745255.8,historical
+Papua Barat,2006,11049.0,26114090.52,historical
+Papua Barat,2007,6648.0,15712415.04,historical
+Papua Barat,2008,7890.0,18647857.2,historical
+Papua Barat,2009,14431.0,34107379.88,historical
+Papua Barat,2010,11693.0,27636171.64,historical
+Papua Barat,2011,11549.0,27295830.52,historical
+Papua Barat,2012,13560.0,32048788.8,historical
+Papua Barat,2013,7906.0,18685672.88,historical
+Papua Barat,2014,17905.0,42318109.4,historical
+Papua Barat,2015,42462.0,100358087.76,historical
+Papua Barat,2016,26815.0,63376716.2,historical
+Papua Barat,2017,15891.0,37558060.68,historical
+Papua Barat,2018,20511.0,48477338.28,historical
+Papua Barat,2019,16558.0,39134501.84,historical
+Papua Barat,2020,16318.0,38567266.64,historical
+Papua Barat,2021,12209.0,28855727.32,historical
+Papua Barat,2022,13752.0,32502576.96,historical
+Papua Barat,2023,16565.0,39151046.2,historical
+Papua Barat,2024,12150.0,28716282.0,historical
+Papua Barat,2025,11108.146,26253882.052890625,forecast
+Papua Barat,2026,10181.569,24063935.49410156,forecast
+Papua Barat,2027,9761.773,23071756.2840625,forecast
+Papua Barat,2028,9873.538,23335909.79535156,forecast
+Papua Barat,2029,10142.983,23972738.402539063,forecast
+Papua Barat,2030,9359.7295,22121533.46019531,forecast
+Riau,2001,156510.0,257901873.3,historical
+Riau,2002,154561.0,254690252.63,historical
+Riau,2003,57204.0,94262467.32,historical
+Riau,2004,270588.0,445883024.04,historical
+Riau,2005,355413.0,585660203.79,historical
+Riau,2006,202107.0,333037977.81,historical
+Riau,2007,211991.0,349325129.53,historical
+Riau,2008,204516.0,337007600.28,historical
+Riau,2009,247897.0,408492113.51,historical
+Riau,2010,341923.0,563430977.09,historical
+Riau,2011,255307.0,420702533.81,historical
+Riau,2012,346655.0,571228508.65,historical
+Riau,2013,156345.0,257629981.35,historical
+Riau,2014,282785.0,465981606.55,historical
+Riau,2015,90762.0,149560346.46,historical
+Riau,2016,147085.0,242371075.55,historical
+Riau,2017,123675.0,203795375.25,historical
+Riau,2018,101107.0,166607147.81,historical
+Riau,2019,102819.0,169428232.77,historical
+Riau,2020,94605.0,155892957.15,historical
+Riau,2021,95679.0,157662726.57,historical
+Riau,2022,86882.0,143166766.06,historical
+Riau,2023,115270.0,189945364.1,historical
+Riau,2024,100670.0,165887046.1,historical
+Riau,2025,96528.04,159061798.60835937,forecast
+Riau,2026,93764.22,154507492.5828125,forecast
+Riau,2027,91062.945,150056253.1742969,forecast
+Riau,2028,91198.18,150279096.43445313,forecast
+Riau,2029,94235.4,155283916.60726562,forecast
+Riau,2030,91058.6,150049095.41273436,forecast
+Sulawesi Barat,2001,16400.0,33885844.0,historical
+Sulawesi Barat,2002,12107.0,25015604.47,historical
+Sulawesi Barat,2003,6885.0,14225855.85,historical
+Sulawesi Barat,2004,15736.0,32513880.56,historical
+Sulawesi Barat,2005,9396.0,19414109.16,historical
+Sulawesi Barat,2006,11481.0,23722157.01,historical
+Sulawesi Barat,2007,4152.0,8578903.92,historical
+Sulawesi Barat,2008,12540.0,25910273.4,historical
+Sulawesi Barat,2009,11858.0,24501118.18,historical
+Sulawesi Barat,2010,7196.0,14868447.16,historical
+Sulawesi Barat,2011,13855.0,28627339.55,historical
+Sulawesi Barat,2012,13555.0,28007476.55,historical
+Sulawesi Barat,2013,8072.0,16678447.12,historical
+Sulawesi Barat,2014,14213.0,29367042.73,historical
+Sulawesi Barat,2015,14055.0,29040581.55,historical
+Sulawesi Barat,2016,13677.0,28259554.17,historical
+Sulawesi Barat,2017,12564.0,25959862.44,historical
+Sulawesi Barat,2018,12974.0,26807008.54,historical
+Sulawesi Barat,2019,13036.0,26935113.56,historical
+Sulawesi Barat,2020,8513.0,17589645.73,historical
+Sulawesi Barat,2021,9848.0,20348036.08,historical
+Sulawesi Barat,2022,10043.0,20750947.03,historical
+Sulawesi Barat,2023,14697.0,30367088.37,historical
+Sulawesi Barat,2024,8456.0,17471871.759999998,historical
+Sulawesi Barat,2025,9062.667,18725373.16592773,forecast
+Sulawesi Barat,2026,8627.995,17827249.791083984,forecast
+Sulawesi Barat,2027,8036.748,16605609.181933591,forecast
+Sulawesi Barat,2028,8174.716,16890679.57508789,forecast
+Sulawesi Barat,2029,8315.329,17181216.142939452,forecast
+Sulawesi Barat,2030,7753.6577,16020685.106987303,forecast
+Sulawesi Selatan,2001,8487.0,17473629.69,historical
+Sulawesi Selatan,2002,12727.0,26203238.49,historical
+Sulawesi Selatan,2003,5984.0,12320278.08,historical
+Sulawesi Selatan,2004,17831.0,36711710.97,historical
+Sulawesi Selatan,2005,8573.0,17650692.509999998,historical
+Sulawesi Selatan,2006,13891.0,28599763.17,historical
+Sulawesi Selatan,2007,9525.0,19610736.75,historical
+Sulawesi Selatan,2008,8126.0,16730377.62,historical
+Sulawesi Selatan,2009,23379.0,48134321.73,historical
+Sulawesi Selatan,2010,8401.0,17296566.87,historical
+Sulawesi Selatan,2011,14390.0,29627139.3,historical
+Sulawesi Selatan,2012,16130.0,33209573.1,historical
+Sulawesi Selatan,2013,9008.0,18546300.96,historical
+Sulawesi Selatan,2014,21475.0,44214233.25,historical
+Sulawesi Selatan,2015,28080.0,57813069.6,historical
+Sulawesi Selatan,2016,30886.0,63590258.82,historical
+Sulawesi Selatan,2017,24051.0,49517882.37,historical
+Sulawesi Selatan,2018,19442.0,40028550.54,historical
+Sulawesi Selatan,2019,22925.0,47199594.75,historical
+Sulawesi Selatan,2020,14268.0,29375957.16,historical
+Sulawesi Selatan,2021,10243.0,21089005.41,historical
+Sulawesi Selatan,2022,15943.0,32824564.41,historical
+Sulawesi Selatan,2023,26949.0,55484487.63,historical
+Sulawesi Selatan,2024,9599.0,19763093.13,historical
+Sulawesi Selatan,2025,8880.429,18283648.26008789,forecast
+Sulawesi Selatan,2026,7424.7876,15286672.441186525,forecast
+Sulawesi Selatan,2027,6769.3545,13937220.883330075,forecast
+Sulawesi Selatan,2028,6146.1475,12654118.622900393,forecast
+Sulawesi Selatan,2029,6135.1885,12631555.498740232,forecast
+Sulawesi Selatan,2030,5802.984,11947589.434848633,forecast
+Sulawesi Tengah,2001,17547.0,36320184.36,historical
+Sulawesi Tengah,2002,33169.0,68655849.72,historical
+Sulawesi Tengah,2003,20131.0,41668754.28,historical
+Sulawesi Tengah,2004,40160.0,83126380.8,historical
+Sulawesi Tengah,2005,18074.0,37411011.12,historical
+Sulawesi Tengah,2006,30635.0,63410773.8,historical
+Sulawesi Tengah,2007,20347.0,42115848.36,historical
+Sulawesi Tengah,2008,16733.0,34635302.04,historical
+Sulawesi Tengah,2009,52427.0,108517598.76,historical
+Sulawesi Tengah,2010,21980.0,45495962.4,historical
+Sulawesi Tengah,2011,26195.0,54220506.6,historical
+Sulawesi Tengah,2012,37172.0,76941579.36,historical
+Sulawesi Tengah,2013,28515.0,59022628.2,historical
+Sulawesi Tengah,2014,46762.0,96791728.56,historical
+Sulawesi Tengah,2015,91932.0,190288208.16,historical
+Sulawesi Tengah,2016,74262.0,153713428.56,historical
+Sulawesi Tengah,2017,36947.0,76475856.36,historical
+Sulawesi Tengah,2018,37525.0,77672247.0,historical
+Sulawesi Tengah,2019,45513.0,94206448.44,historical
+Sulawesi Tengah,2020,26788.0,55447945.44,historical
+Sulawesi Tengah,2021,22583.0,46744100.04,historical
+Sulawesi Tengah,2022,24645.0,51012192.6,historical
+Sulawesi Tengah,2023,43093.0,89197338.84,historical
+Sulawesi Tengah,2024,28744.0,59496630.72,historical
+Sulawesi Tengah,2025,34281.21,70957992.8953125,forecast
+Sulawesi Tengah,2026,36401.12,75345952.52953126,forecast
+Sulawesi Tengah,2027,35770.65,74040949.7878125,forecast
+Sulawesi Tengah,2028,35715.938,73927704.7125,forecast
+Sulawesi Tengah,2029,36893.953,76366055.694375,forecast
+Sulawesi Tengah,2030,34065.914,70512354.1996875,forecast
+Sulawesi Tenggara,2001,15947.0,32247544.99,historical
+Sulawesi Tenggara,2002,15851.0,32053416.67,historical
+Sulawesi Tenggara,2003,13418.0,27133477.06,historical
+Sulawesi Tenggara,2004,41603.0,84128338.51,historical
+Sulawesi Tenggara,2005,16418.0,33199987.06,historical
+Sulawesi Tenggara,2006,44384.0,89751993.28,historical
+Sulawesi Tenggara,2007,9984.0,20189345.28,historical
+Sulawesi Tenggara,2008,8700.0,17592879.0,historical
+Sulawesi Tenggara,2009,30091.0,60849117.47,historical
+Sulawesi Tenggara,2010,7630.0,15429157.1,historical
+Sulawesi Tenggara,2011,22949.0,46406779.33,historical
+Sulawesi Tenggara,2012,23041.0,46592818.97,historical
+Sulawesi Tenggara,2013,15485.0,31313302.45,historical
+Sulawesi Tenggara,2014,39717.0,80314525.89,historical
+Sulawesi Tenggara,2015,43540.0,88045281.8,historical
+Sulawesi Tenggara,2016,38445.0,77742325.64999999,historical
+Sulawesi Tenggara,2017,27135.0,54871582.95,historical
+Sulawesi Tenggara,2018,24214.0,48964824.38,historical
+Sulawesi Tenggara,2019,34956.0,70686974.52,historical
+Sulawesi Tenggara,2020,18920.0,38259456.4,historical
+Sulawesi Tenggara,2021,12405.0,25085018.85,historical
+Sulawesi Tenggara,2022,13369.0,27034390.73,historical
+Sulawesi Tenggara,2023,34164.0,69085415.88,historical
+Sulawesi Tenggara,2024,16908.0,34190850.36,historical
+Sulawesi Tenggara,2025,21611.799,43702731.23626953,forecast
+Sulawesi Tenggara,2026,25457.598,51479590.25253906,forecast
+Sulawesi Tenggara,2027,28160.48,56945278.78949219,forecast
+Sulawesi Tenggara,2028,29189.43,59025989.03117187,forecast
+Sulawesi Tenggara,2029,31280.566,63254622.96972656,forecast
+Sulawesi Tenggara,2030,29230.352,59108740.01914062,forecast
+Sulawesi Utara,2001,4520.0,10915167.2,historical
+Sulawesi Utara,2002,7683.0,18553369.38,historical
+Sulawesi Utara,2003,2910.0,7027242.6,historical
+Sulawesi Utara,2004,6841.0,16520057.26,historical
+Sulawesi Utara,2005,3473.0,8386808.78,historical
+Sulawesi Utara,2006,4894.0,11818324.84,historical
+Sulawesi Utara,2007,4278.0,10330771.08,historical
+Sulawesi Utara,2008,1609.0,3885509.74,historical
+Sulawesi Utara,2009,6999.0,16901605.14,historical
+Sulawesi Utara,2010,2037.0,4919069.82,historical
+Sulawesi Utara,2011,3116.0,7524703.76,historical
+Sulawesi Utara,2012,2671.0,6450091.06,historical
+Sulawesi Utara,2013,1715.0,4141484.9,historical
+Sulawesi Utara,2014,6875.0,16602162.5,historical
+Sulawesi Utara,2015,15596.0,37662156.56,historical
+Sulawesi Utara,2016,8782.0,21207300.52,historical
+Sulawesi Utara,2017,5777.0,13950646.22,historical
+Sulawesi Utara,2018,7455.0,18002781.3,historical
+Sulawesi Utara,2019,8921.0,21542966.06,historical
+Sulawesi Utara,2020,3124.0,7544022.64,historical
+Sulawesi Utara,2021,2824.0,6819564.64,historical
+Sulawesi Utara,2022,2731.0,6594982.66,historical
+Sulawesi Utara,2023,5793.0,13989283.98,historical
+Sulawesi Utara,2024,3474.0,8389223.64,historical
+Sulawesi Utara,2025,2687.7637,6490572.980664062,forecast
+Sulawesi Utara,2026,2409.5312,5818680.634374999,forecast
+Sulawesi Utara,2027,2358.594,5695674.29269043,forecast
+Sulawesi Utara,2028,2356.0696,5689578.186147461,forecast
+Sulawesi Utara,2029,2406.1475,5810509.257519531,forecast
+Sulawesi Utara,2030,2252.9712,5440610.011279297,forecast
+Sumatera Barat,2001,15016.0,38190342.96,historical
+Sumatera Barat,2002,15384.0,39126281.04,historical
+Sumatera Barat,2003,9833.0,25008367.23,historical
+Sumatera Barat,2004,26547.0,67517250.57,historical
+Sumatera Barat,2005,29284.0,74478290.03999999,historical
+Sumatera Barat,2006,32715.0,83204386.64999999,historical
+Sumatera Barat,2007,31672.0,80551714.32,historical
+Sumatera Barat,2008,34037.0,86566642.47,historical
+Sumatera Barat,2009,40537.0,103098157.47,historical
+Sumatera Barat,2010,22960.0,58394397.6,historical
+Sumatera Barat,2011,42570.0,108268706.7,historical
+Sumatera Barat,2012,36511.0,92858791.41,historical
+Sumatera Barat,2013,22433.0,57054073.23,historical
+Sumatera Barat,2014,30560.0,77723553.6,historical
+Sumatera Barat,2015,22500.0,57224475.0,historical
+Sumatera Barat,2016,39172.0,99626539.32,historical
+Sumatera Barat,2017,51512.0,131010984.72,historical
+Sumatera Barat,2018,37400.0,95119794.0,historical
+Sumatera Barat,2019,30977.0,78784113.87,historical
+Sumatera Barat,2020,30395.0,77303907.45,historical
+Sumatera Barat,2021,35801.0,91053041.31,historical
+Sumatera Barat,2022,35602.0,90546922.62,historical
+Sumatera Barat,2023,35180.0,89473645.8,historical
+Sumatera Barat,2024,32209.0,81917471.78999999,historical
+Sumatera Barat,2025,28646.246,72856284.15269531,forecast
+Sumatera Barat,2026,27959.266,71109079.85671875,forecast
+Sumatera Barat,2027,26804.223,68171447.52386719,forecast
+Sumatera Barat,2028,27074.58,68859050.25849609,forecast
+Sumatera Barat,2029,27597.78,70189708.06353515,forecast
+Sumatera Barat,2030,25783.625,65575751.29875,forecast
+Sumatera Selatan,2001,59014.0,90314435.46,historical
+Sumatera Selatan,2002,65958.0,100941463.62,historical
+Sumatera Selatan,2003,30693.0,46972260.27,historical
+Sumatera Selatan,2004,102154.0,156335460.06,historical
+Sumatera Selatan,2005,87403.0,133760677.17,historical
+Sumatera Selatan,2006,170369.0,260731013.91,historical
+Sumatera Selatan,2007,173988.0,266269495.32,historical
+Sumatera Selatan,2008,189246.0,289620185.94,historical
+Sumatera Selatan,2009,201438.0,308278700.82,historical
+Sumatera Selatan,2010,120180.0,183922270.2,historical
+Sumatera Selatan,2011,132284.0,202446110.76,historical
+Sumatera Selatan,2012,361299.0,552928376.61,historical
+Sumatera Selatan,2013,100948.0,154489809.72,historical
+Sumatera Selatan,2014,159552.0,244176785.28,historical
+Sumatera Selatan,2015,169040.0,258697125.6,historical
+Sumatera Selatan,2016,275754.0,422011164.06,historical
+Sumatera Selatan,2017,124661.0,190779947.79,historical
+Sumatera Selatan,2018,125458.0,191999668.62,historical
+Sumatera Selatan,2019,102590.0,157002710.1,historical
+Sumatera Selatan,2020,108366.0,165842242.74,historical
+Sumatera Selatan,2021,77866.0,119165347.74,historical
+Sumatera Selatan,2022,87810.0,134383545.9,historical
+Sumatera Selatan,2023,139240.0,213091503.6,historical
+Sumatera Selatan,2024,120445.0,184327823.55,historical
+Sumatera Selatan,2025,117186.19,179340569.488125,forecast
+Sumatera Selatan,2026,121758.33,186337727.77921876,forecast
+Sumatera Selatan,2027,120899.42,185023266.24328125,forecast
+Sumatera Selatan,2028,121110.26,185345927.45367187,forecast
+Sumatera Selatan,2029,122275.23,187128783.9789844,forecast
+Sumatera Selatan,2030,114089.984,174602171.18765625,forecast
+Sumatera Utara,2001,54337.0,114066403.88,historical
+Sumatera Utara,2002,39735.0,83413301.39999999,historical
+Sumatera Utara,2003,37482.0,78683713.67999999,historical
+Sumatera Utara,2004,72385.0,151953487.4,historical
+Sumatera Utara,2005,74515.0,156424868.6,historical
+Sumatera Utara,2006,66724.0,140069689.76,historical
+Sumatera Utara,2007,52432.0,110067351.68,historical
+Sumatera Utara,2008,65671.0,137859190.04,historical
+Sumatera Utara,2009,121059.0,254131895.16,historical
+Sumatera Utara,2010,93338.0,195938863.12,historical
+Sumatera Utara,2011,100568.0,211116368.32,historical
+Sumatera Utara,2012,89313.0,187489422.12,historical
+Sumatera Utara,2013,53252.0,111788728.48,historical
+Sumatera Utara,2014,85505.0,179495516.2,historical
+Sumatera Utara,2015,53040.0,111343689.6,historical
+Sumatera Utara,2016,79282.0,166431945.68,historical
+Sumatera Utara,2017,74551.0,156500441.24,historical
+Sumatera Utara,2018,66196.0,138961291.04,historical
+Sumatera Utara,2019,51889.0,108927464.36,historical
+Sumatera Utara,2020,50234.0,105453222.16,historical
+Sumatera Utara,2021,59204.0,124283404.96,historical
+Sumatera Utara,2022,49218.0,103320394.32,historical
+Sumatera Utara,2023,65335.0,137153845.4,historical
+Sumatera Utara,2024,64259.0,134895063.16,historical
+Sumatera Utara,2025,69354.734,145592232.589375,forecast
+Sumatera Utara,2026,70760.164,148542566.80656248,forecast
+Sumatera Utara,2027,69901.164,146739319.6465625,forecast
+Sumatera Utara,2028,69965.125,146873589.005,forecast
+Sumatera Utara,2029,70882.95,148800330.518125,forecast
+Sumatera Utara,2030,65279.438,137037206.3775,forecast
+Yogyakarta,2001,83.0,98389.03,historical
+Yogyakarta,2002,33.0,39118.53,historical
+Yogyakarta,2003,8.0,9483.28,historical
+Yogyakarta,2004,70.0,82978.7,historical
+Yogyakarta,2005,15.0,17781.15,historical
+Yogyakarta,2006,61.0,72310.01,historical
+Yogyakarta,2007,18.0,21337.38,historical
+Yogyakarta,2008,28.0,33191.48,historical
+Yogyakarta,2009,25.0,29635.25,historical
+Yogyakarta,2010,143.0,169513.63,historical
+Yogyakarta,2011,173.0,205075.93,historical
+Yogyakarta,2012,55.0,65197.55,historical
+Yogyakarta,2013,27.0,32006.07,historical
+Yogyakarta,2014,59.0,69939.19,historical
+Yogyakarta,2015,42.0,49787.22,historical
+Yogyakarta,2016,67.0,79422.47,historical
+Yogyakarta,2017,108.0,128024.28,historical
+Yogyakarta,2018,140.0,165957.4,historical
+Yogyakarta,2019,69.0,81793.29,historical
+Yogyakarta,2020,56.0,66382.95999999999,historical
+Yogyakarta,2021,71.0,84164.11,historical
+Yogyakarta,2022,36.0,42674.76,historical
+Yogyakarta,2023,107.0,126838.87,historical
+Yogyakarta,2024,108.0,128024.28,historical
+Yogyakarta,2025,83.101585,98509.45033500672,forecast
+Yogyakarta,2026,79.283554,93983.51783859252,forecast
+Yogyakarta,2027,65.246284,77343.59809120178,forecast
+Yogyakarta,2028,50.18579,59490.73852783203,forecast
+Yogyakarta,2029,51.413334,60945.88012989045,forecast
+Yogyakarta,2030,51.027214,60488.169807357786,forecast
