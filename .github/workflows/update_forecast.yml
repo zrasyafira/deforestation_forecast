@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "zrasyafira"
+          git config --global user.email "syafira.t.zahroh@gmail.com"
           git add data/deforestation_historical_forecast_full.csv
           git commit -m "Auto update forecast dataset"
           git push
