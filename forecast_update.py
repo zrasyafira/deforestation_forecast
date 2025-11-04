@@ -67,12 +67,18 @@ forecast_df = forecast_df[[
 
 # === Gabungkan dengan Historis ===
 print("Merging forecast with historical data...")
-df_hist = df_hist.rename(columns={"emission_estimated_CO2e": "emission_CO2e"})
 df_hist["source"] = "historical"
 
 combined = pd.concat([df_hist, forecast_df], ignore_index=True, sort=False)
-combined["loss_rate_%_merged"] = combined["loss_rate_%"].combine_first(combined["predicted_loss_rate_%"])
-combined["emission_CO2e_merged"] = combined["emission_CO2e"].combine_first(combined["predicted_emission_CO2e"])
+combined["loss_rate_%"] = data_all["loss_rate_%"].combine_first(data_all["predicted_loss_rate_%"])
+combined["loss_ha"] = data_all["loss_ha"].combine_first(data_all["predicted_loss_ha"])
+combined["emission_CO2e"] = data_all["emission_estimated_CO2e"].combine_first(data_all["predicted_emission_CO2e"])
+
+cols_save = [
+    "subnational1", "year", "predicted_loss_ha",
+    "predicted_loss_rate_%", "predicted_emission_CO2e"
+]
+forecast_data = combined[cols_save]
 
 combined.to_csv(OUTPUT_PATH, index=False)
 print(f"Dataset updated and saved to {OUTPUT_PATH} at {datetime.now()}")
