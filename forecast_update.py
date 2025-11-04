@@ -70,9 +70,9 @@ print("Merging forecast with historical data...")
 df_hist["source"] = "historical"
 
 combined = pd.concat([df_hist, forecast_df], ignore_index=True, sort=False)
-combined["loss_rate_%"] = combined["loss_rate_%"].combine_first(data_all["predicted_loss_rate_%"])
-combined["loss_ha"] = combined["loss_ha"].combine_first(data_all["predicted_loss_ha"])
-combined["emission_CO2e"] = combined["emission_estimated_CO2e"].combine_first(data_all["predicted_emission_CO2e"])
+combined["loss_rate_%"] = combined["loss_rate_%"].combine_first(combined["predicted_loss_rate_%"])
+combined["loss_ha"] = combined["loss_ha"].combine_first(combined["predicted_loss_ha"])
+combined["emission_CO2e"] = combined["emission_estimated_CO2e"].combine_first(combined["predicted_emission_CO2e"])
 
 cols_save = [
     "subnational1", "year", "predicted_loss_ha",
