@@ -80,5 +80,5 @@ cols_save = [
 ]
 forecast_data = combined[cols_save]
 
-combined.to_csv(OUTPUT_PATH, index=False)
+forecast_data.to_csv(OUTPUT_PATH, index=False)
 print(f"Dataset updated and saved to {OUTPUT_PATH} at {datetime.now()}")
