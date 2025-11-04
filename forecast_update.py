@@ -75,8 +75,8 @@ combined["loss_ha"] = combined["loss_ha"].combine_first(combined["predicted_loss
 combined["emission_CO2e"] = combined["emission_estimated_CO2e"].combine_first(combined["predicted_emission_CO2e"])
 
 cols_save = [
-    "subnational1", "year", "predicted_loss_ha",
-    "predicted_loss_rate_%", "predicted_emission_CO2e"
+    "subnational1", "year", "loss_ha",
+    "loss_rate_%", "emission_CO2e"
 ]
 forecast_data = combined[cols_save]
 
