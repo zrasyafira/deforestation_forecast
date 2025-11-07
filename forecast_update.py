@@ -9,7 +9,7 @@ MODEL_PATH = "model/xgb_optimized.json"
 FEATURE_PATH = "data/deforestation_features_ready.csv"
 HIST_PATH = "data/deforestation_carbon_ready.csv"
 OUTPUT_PATH = "data/deforestation_historical_forecast_full.csv"
-FORECAST_YEARS = 6  # 2025–2030
+FORECAST_YEARS = 10  
 
 # ========== Load Model dan Dataset ==========
 print("[INFO] Loading model and datasets...")
