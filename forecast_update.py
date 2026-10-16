@@ -1,84 +1,86 @@
+"""Regenerate the historical + forecast dataset used by the dashboard.
+
+Inputs (produced by notebooks/deforestation_revised.ipynb):
+  data/history_ready.csv   historical loss and GFW gross emissions per province-year
+  model/xgb_model.json     final XGBoost model (target: log1p(loss_ha))
+  model/metadata.json      features, lags, windows, horizon, emission factors
+
+Output:
+  data/deforestation_historical_forecast_full.csv
+  columns: subnational1, year, loss_ha, loss_rate_%, emission_CO2e, source
+
+The feature logic must stay identical to make_features() in the notebook.
+"""
+import json
+import os
+
+import numpy as np
 import pandas as pd
 import xgboost as xgb
-import numpy as np
-import os
-from datetime import datetime
 
-# ========== Konfigurasi Path ==========
-MODEL_PATH = "model/xgb_optimized.json"
-FEATURE_PATH = "data/deforestation_features_ready.csv"
-HIST_PATH = "data/deforestation_carbon_ready.csv"
-OUTPUT_PATH = "data/deforestation_historical_forecast_full.csv"
-FORECAST_YEARS = 10  
+ROOT = os.path.dirname(os.path.abspath(__file__))
+HIST_PATH = os.path.join(ROOT, "data", "history_ready.csv")
+MODEL_PATH = os.path.join(ROOT, "model", "xgb_model.json")
+META_PATH = os.path.join(ROOT, "model", "metadata.json")
+OUTPUT_PATH = os.path.join(ROOT, "data", "deforestation_historical_forecast_full.csv")
+COLS = ["subnational1", "year", "loss_ha", "loss_rate_%", "emission_CO2e", "source"]
 
-# ========== Load Model dan Dataset ==========
-print("[INFO] Loading model and datasets...")
-model = xgb.Booster()
-model.load_model(MODEL_PATH)
+with open(META_PATH) as fh:
+    META = json.load(fh)
+LAGS, WINDOWS, FEATURES = META["lags"], META["windows"], META["features"]
 
-df = pd.read_csv(FEATURE_PATH)
-df_hist = pd.read_csv(HIST_PATH)
 
-FEATURES = [
-    'lag_1','lag_2','lag_3','lag_5','lag_7','lag_10',
-    'roll_mean_3','roll_mean_5','roll_mean_7','roll_mean_10',
-    'roll_std_3','roll_std_5','roll_std_7','roll_std_10',
-    'pct_change_3','pct_change_5','pct_change_7','pct_change_10',
-    'year','trend','sin_year','cos_year',
-    'extent_2000_ha','avg_gfw_aboveground_carbon_stocks_2000__Mg_C_ha-1',
-    'prov_enc','prov_mean_loss'
-]
+def make_features(d):
+    d = d.sort_values(["subnational1", "year"]).reset_index(drop=True).copy()
+    g = d.groupby("subnational1")["log_loss"]
+    for k in LAGS:
+        d[f"lag_{k}"] = g.shift(k)
+    for w in WINDOWS:
+        d[f"roll_mean_{w}"] = g.transform(lambda s: s.shift(1).rolling(w).mean())
+        d[f"roll_std_{w}"] = g.transform(lambda s: s.shift(1).rolling(w).std())
+    d["diff_1"] = d["lag_1"] - d["lag_2"]
+    d["diff_3"] = d["lag_1"] - d["lag_3"]
+    d["log_extent"] = np.log1p(d["extent_2000_ha"])
+    return d
 
-latest_year = int(df['year'].max())
-last_rows = df.sort_values(["subnational1", "year"]).groupby("subnational1").tail(1)
-forecast_results = []
 
-print(f"Generating forecast for {FORECAST_YEARS} years ahead...")
+def recursive_forecast(model, base, horizon):
+    d = base[["subnational1", "year", "extent_2000_ha", "log_loss"]].copy()
+    last = int(d["year"].max())
+    preds = []
+    for step in range(1, horizon + 1):
+        y = last + step
+        nxt = d[d["year"] == y - 1][["subnational1", "extent_2000_ha"]].assign(year=y, log_loss=np.nan)
+        d = pd.concat([d, nxt], ignore_index=True)
+        f = make_features(d)
+        row = f[f["year"] == y]
+        p = dict(zip(row["subnational1"], model.predict(xgb.DMatrix(row[FEATURES]))))
+        mask = d["year"] == y
+        d.loc[mask, "log_loss"] = d.loc[mask, "subnational1"].map(p)
+        preds.append(d[mask])
+    out = pd.concat(preds)
+    out["loss_ha"] = np.clip(np.expm1(out["log_loss"]), 0, None)
+    return out
 
-for step in range(1, FORECAST_YEARS + 1):
-    next_year = latest_year + step
-    next_pred_features = last_rows[FEATURES].copy()
-    next_pred_features["year"] = next_year
-    next_pred_features["trend"] = next_pred_features["trend"] + 1
-    next_pred_features["sin_year"] = np.sin(2 * np.pi * next_year / 10)
-    next_pred_features["cos_year"] = np.cos(2 * np.pi * next_year / 10)
 
-    dnext = xgb.DMatrix(next_pred_features)
-    pred = np.expm1(model.predict(dnext))
+def main():
+    hist = pd.read_csv(HIST_PATH)
+    hist["log_loss"] = np.log1p(hist["loss_ha"])
+    model = xgb.Booster()
+    model.load_model(MODEL_PATH)
 
-    next_pred = last_rows.copy()
-    next_pred["predicted_loss_ha"] = pred
-    next_pred["predicted_loss_rate_%"] = (pred / next_pred["extent_2000_ha"]) * 100
-    next_pred["predicted_emission_CO2e"] = pred * next_pred["avg_gfw_aboveground_carbon_stocks_2000__Mg_C_ha-1"] * 3.67
-    next_pred["year"] = next_year
-    next_pred["source"] = "forecast"
-    forecast_results.append(next_pred)
+    fc = recursive_forecast(model, hist, META["horizon"])
+    fc["loss_rate_%"] = fc["loss_ha"] / fc["extent_2000_ha"] * 100
+    factor = pd.Series(META["emission_factor_Mg_CO2e_per_ha"])
+    fc["emission_CO2e"] = fc["loss_ha"] * fc["subnational1"].map(factor)
 
-    # update lag agar tahun berikutnya bisa lanjut prediksi
-    for lag in [10, 7, 5, 3, 2, 1]:
-        last_rows[f"lag_{lag}"] = next_pred["predicted_loss_ha"]
+    full = pd.concat(
+        [hist.assign(source="historical")[COLS], fc.assign(source="forecast")[COLS]],
+        ignore_index=True,
+    ).sort_values(["subnational1", "year"])
+    full.to_csv(OUTPUT_PATH, index=False)
+    print(f"Saved {len(full)} rows ({full['source'].value_counts().to_dict()}) to {OUTPUT_PATH}")
 
-forecast_df = pd.concat(forecast_results, ignore_index=True)
-forecast_df = forecast_df[[
-    "subnational1", "year", "predicted_loss_ha",
-    "predicted_loss_rate_%", "predicted_emission_CO2e",
-    "extent_2000_ha", "avg_gfw_aboveground_carbon_stocks_2000__Mg_C_ha-1", "source"
-]]
 
-# === Gabungkan dengan Historis ===
-print("Merging forecast with historical data...")
-df_hist["source"] = "historical"
-
-combined = pd.concat([df_hist, forecast_df], ignore_index=True, sort=False)
-combined["loss_rate_%"] = combined["loss_rate_%"].combine_first(combined["predicted_loss_rate_%"])
-combined["loss_ha"] = combined["loss_ha"].combine_first(combined["predicted_loss_ha"])
-combined["emission_CO2e"] = combined["emission_estimated_CO2e"].combine_first(combined["predicted_emission_CO2e"])
-
-cols_save = [
-    "subnational1", "year", "loss_ha",
-    "loss_rate_%", "emission_CO2e"
-]
-forecast_data = combined[cols_save]
-
-forecast_data.to_csv(OUTPUT_PATH, index=False)
-print(f"Dataset updated and saved to {OUTPUT_PATH} at {datetime.now()}")
+if __name__ == "__main__":
+    main()

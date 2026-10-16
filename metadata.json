@@ -1,0 +1,82 @@
+{
+  "features": [
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "lag_5",
+    "roll_mean_3",
+    "roll_mean_5",
+    "roll_std_3",
+    "roll_std_5",
+    "diff_1",
+    "diff_3",
+    "log_extent"
+  ],
+  "lags": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "windows": [
+    3,
+    5
+  ],
+  "horizon": 6,
+  "threshold": 30,
+  "params": {
+    "objective": "reg:squarederror",
+    "eval_metric": "rmse",
+    "tree_method": "hist",
+    "seed": 42,
+    "eta": 0.03534947957427915,
+    "max_depth": 2,
+    "min_child_weight": 2.6256302874282866,
+    "subsample": 0.7996804020865523,
+    "colsample_bytree": 0.8208555126740175,
+    "lambda": 0.4615498934240589,
+    "alpha": 0.17892417403701083
+  },
+  "n_rounds": 109,
+  "emission_factor_years": [
+    2020,
+    2024
+  ],
+  "emission_factor_Mg_CO2e_per_ha": {
+    "Aceh": 599.8758269720101,
+    "Bali": 649.5244082840237,
+    "Bangka Belitung": 493.73632788532893,
+    "Banten": 633.741821962729,
+    "Bengkulu": 687.1528092874025,
+    "Gorontalo": 701.4975397697416,
+    "Jakarta Raya": 483.0,
+    "Jambi": 643.3398906176103,
+    "Jawa Barat": 647.1201033146793,
+    "Jawa Tengah": 702.1431538142047,
+    "Jawa Timur": 653.9956719715071,
+    "Kalimantan Barat": 623.2712363987329,
+    "Kalimantan Selatan": 580.2165557225682,
+    "Kalimantan Tengah": 643.5380963891574,
+    "Kalimantan Timur": 692.537290734716,
+    "Kalimantan Utara": 728.4475559514531,
+    "Kepulauan Riau": 546.427050634639,
+    "Lampung": 602.71790108729,
+    "Maluku": 679.7636679627666,
+    "Maluku Utara": 781.4923372629421,
+    "Nusa Tenggara Barat": 588.7591736885023,
+    "Nusa Tenggara Timur": 514.9274573812114,
+    "Papua": 681.000099685607,
+    "Papua Barat": 766.89838577908,
+    "Riau": 489.49821133792733,
+    "Sulawesi Barat": 688.2683437748511,
+    "Sulawesi Selatan": 647.9920002077868,
+    "Sulawesi Tengah": 693.3005697517364,
+    "Sulawesi Tenggara": 693.0092308334899,
+    "Sulawesi Utara": 758.7863033545079,
+    "Sumatera Barat": 552.7466885753634,
+    "Sumatera Selatan": 606.3659361433841,
+    "Sumatera Utara": 472.979434518647,
+    "Yogyakarta": 555.2116402116402
+  },
+  "xgboost_version": "3.4.1"
+}

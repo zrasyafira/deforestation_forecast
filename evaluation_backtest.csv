@@ -1,0 +1,4 @@
+model,RMSE_ha,MAE_ha,MdAE_ha,R2,RMSE_log
+XGBoost,15840.434,8159.552,3446.175,0.846,0.465
+Naif (= tahun lalu),15434.593,8256.934,3168.5,0.854,0.446
+Rata-rata 3 tahun (log),16426.661,8517.607,3189.348,0.834,0.444

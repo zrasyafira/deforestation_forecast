@@ -1,0 +1,7 @@
+set,model,RMSE_ha,MAE_ha,MdAE_ha,R2,RMSE_log
+Validasi 2021-2023,XGBoost,15860.335,8848.533,3889.143,0.836,0.491
+Validasi 2021-2023,Naif (= tahun lalu),16356.443,8173.99,2899.5,0.825,0.438
+Validasi 2021-2023,Rata-rata 3 tahun (log),17983.158,9557.813,3959.993,0.789,0.493
+Test 2024,XGBoost,6151.141,4347.088,3259.83,0.98,0.359
+Test 2024,Naif (= tahun lalu),12259.977,8505.765,4503.5,0.921,0.47
+Test 2024,Rata-rata 3 tahun (log),10447.912,5396.988,1179.311,0.943,0.247
