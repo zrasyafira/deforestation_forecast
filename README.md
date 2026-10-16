@@ -120,7 +120,7 @@ Keterbatasan yang perlu diperhatikan saat membaca dashboard:
 
 Proyek kelompok (Kelompok 6, SDGs 15). Revisi metodologi, perbaikan kebocoran data, dan otomatisasi oleh [@zrasyafira](https://github.com/zrasyafira).
 
-# Sumber Data
+## Sumber Data
 
 Data: berkas IDN.xlsx tidak memuat pernyataan lisensi di sheet Read_Me-nya. Metadata API Global Forest Watch untuk dataset sumbernya (tree cover loss dan gross emissions) menyatakan CC BY 4.0, sehingga penggunaan ulang mensyaratkan atribusi. Lisensi data tidak tercakup oleh lisensi kode di atas. Batas administrasi sub-nasional pada data sumber berasal dari GADM v4.1, yang memiliki ketentuan sendiri (bebas untuk penggunaan akademik dan nonkomersial; pendistribusian ulang atau penggunaan komersial memerlukan izin, lihat gadm.org/license). Repositori ini hanya memuat nama provinsi, bukan berkas batas wilayah.
 
